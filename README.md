@@ -121,12 +121,9 @@ awais-ansari-portfolio/
 **Awais Ansari**
 
 *   **GitHub**: [awaisansari06](https://github.com/awaisansari06)
-<<<<<<< HEAD
-*   **Email**: [Your Email Here]
-=======
+
 *   **Email**: muhammadavais14@gmail.com
->>>>>>> 1c1364bfeec6f01497e81ad43137631a1053fe40
-*   **LinkedIn**: [Your LinkedIn Profile]
+
 
 ---
 
