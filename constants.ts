@@ -38,12 +38,12 @@ export const SOFT_SKILLS = [
 export const PROJECTS: Project[] = [
   {
     id: 1,
-    title: 'E-Commerce Dashboard',
-    description: 'A responsive admin dashboard with data visualization charts, dark mode toggle, and product management capabilities. Features include real-time sales tracking, inventory management, and user analytics.',
-    tags: ['React', 'Tailwind', 'Recharts', 'Context API'],
-    image: 'https://picsum.photos/seed/project1/800/600',
-    demoUrl: '#',
-    repoUrl: '#',
+    title: 'E-Waste Management Business Website',
+    description: 'A responsive business website developed for an e-waste recycling company. Features include service descriptions, compliance certifications, a structured process section, contact forms, and call-to-action elements to improve customer engagement and lead generation.',
+    tags: ['Next.js', 'TailwindCSS', 'TypeScript', 'SEO', 'Contact Form Integration'],
+    image: '/jrs-recycling.png',
+    demoUrl: 'https://jrsrecyclingsolutions.vercel.app/',
+    repoUrl: 'https://github.com/awaisansari06/jrs-recycling-solutions',
   },
   {
     id: 2,
